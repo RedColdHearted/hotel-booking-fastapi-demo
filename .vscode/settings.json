@@ -1,0 +1,9 @@
+{
+    "cSpell.words": [
+        "autoflush",
+        "hotelbooking",
+        "pydantic",
+        "SQLALCHEMY"
+    ],
+    "editor.rulers": [79],
+}

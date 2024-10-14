@@ -1,0 +1,11 @@
+# sqlite db instance
+hotelbooking.db
+
+#__pycache__ files
+__pycache__**
+
+#alembic folder
+alembic
+
+#python venv folder
+.venv

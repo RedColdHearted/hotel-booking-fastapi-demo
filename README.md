@@ -2,7 +2,7 @@
 
 ## installation
 
-### creating virtual venv
+### creating virtual env
 ```bash
 cd hotel-booking-fastapi-demo
 pyenv install 3.12
